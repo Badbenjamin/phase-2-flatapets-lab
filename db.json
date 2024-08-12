@@ -1,53 +1,67 @@
 {
   "pets": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Fido",
       "fromPetShop": true,
       "image": "./images/dog.jpeg",
       "animal_type": "Dog"
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Kitty",
       "fromPetShop": true,
       "image": "./images/cat.png",
       "animal_type": "Cat"
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "Hammy",
       "fromPetShop": true,
       "image": "./images/hamster.jpeg",
       "animal_type": "Hamster"
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "Polly",
       "fromPetShop": false,
       "image": "./images/parrot.jpeg",
       "animal_type": "Bird"
     },
     {
-      "id": 5,
+      "id": "5",
       "name": "Angel",
       "fromPetShop": false,
       "image": "./images/horse.jpeg",
       "animal_type": "Horse"
     },
     {
-      "id": 6,
+      "id": "6",
       "name": "Fluffy",
       "fromPetShop": false,
       "image": "./images/guinea-pig.jpeg",
       "animal_type": "Guinea Pig"
     },
     {
-      "id": 7,
+      "id": "7",
       "name": "Goldie",
       "fromPetShop": true,
       "image": "./images/fish.jpeg",
       "animal_type": "Fish"
+    },
+    {
+      "id": "51f9",
+      "name": "1",
+      "fromPetShop": false,
+      "image": "2",
+      "animal_type": "3"
+    },
+    {
+      "id": "aa47",
+      "name": "123",
+      "fromPetShop": true,
+      "image": "123",
+      "animal_type": "123"
     }
   ]
 }
